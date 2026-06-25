@@ -11,10 +11,14 @@
             "id": "bb1686a8076beaf0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "ApuntesClases/ASasd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASasd"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bfd8c9d4ca6c475d",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ApuntesClases/ASasd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de ASasd"
             }
           },
           {
@@ -173,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,14 +192,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36a8b640d38d3afa",
+  "active": "bb1686a8076beaf0",
   "lastOpenFiles": [
-    "pata.md",
-    "Sin título.base",
-    "Sin título.canvas",
+    "ApuntesClases.md/ASasd.md",
+    "ApuntesClases/ASasd.md",
+    "ApuntesClases",
+    "ApuntesClases.md",
+    "ApuntesClases/ASasd",
+    "Ejercicios-java/Ejercicio1.java",
+    "Ejercicios-java",
     "cree un enlace.md",
     "Sin nombre/Java trabajos.md",
     "Bienvenido.md",
+    "LuisPrimer.java",
+    "primer.java",
+    "primer-java.java",
+    "pata.md",
+    "Sin título.base",
+    "Sin título.canvas",
     "Sin nombre"
   ]
 }
