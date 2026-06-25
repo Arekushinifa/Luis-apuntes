@@ -192,8 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb1686a8076beaf0",
+  "active": "679a398ff51eb3c4",
   "lastOpenFiles": [
+    "Ejercicios-java/Scaneo.java",
+    "Ejercicios-java/Scanner.java",
+    "Ejercicios-java/Funcion.java",
+    "Ejercicios-java/Coche.java",
+    "Ejercicios-java/Coche",
     "ApuntesClases.md/ASasd.md",
     "ApuntesClases/ASasd.md",
     "ApuntesClases",
@@ -206,10 +211,7 @@
     "Bienvenido.md",
     "LuisPrimer.java",
     "primer.java",
-    "primer-java.java",
     "pata.md",
-    "Sin título.base",
-    "Sin título.canvas",
-    "Sin nombre"
+    "Sin título.canvas"
   ]
 }
