@@ -157,13 +157,23 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "36a8b640d38d3afa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,11 +183,14 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb1686a8076beaf0",
+  "active": "36a8b640d38d3afa",
   "lastOpenFiles": [
+    "Sin título.base",
+    "Sin título.canvas",
     "pata.md",
     "cree un enlace.md",
     "Sin nombre/Java trabajos.md",
