@@ -1,3 +1,4 @@
+package Tema1y2;
 public class Funcion {
     public static void main(String[] args) {
         int gatos = 2;

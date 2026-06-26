@@ -1,3 +1,4 @@
+package Tema1y2;
 import java.util.Scanner; 
 
 public class Scaneo {
